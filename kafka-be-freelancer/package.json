@@ -1,0 +1,22 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafka-node": "^2.2.3",
+    "passport": "^0.4.0",
+    "mongodb": "^3.0.5",
+    "mongoose": "^5.0.14",
+    "passport-local": "^1.0.0",
+    "connect-mongo": "^2.0.1",
+    "express": "~4.15.5",
+    "express-session": "^1.15.6",
+    "serve-favicon": "~2.4.5"
+  }
+}

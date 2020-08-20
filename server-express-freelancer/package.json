@@ -7,7 +7,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "body-parser": "~1.18.2",
     "chai": "^4.1.2",
     "connect-mongo": "^2.0.1",
